@@ -1,0 +1,7 @@
+[user]
+	name = Russ Arbuthnot
+	email = russellarbuthnot@gmail.com
+[alias]
+	co = checkout
+[core]
+	editor = mate -w
