@@ -9,6 +9,4 @@ else
     pushd $DOTFILE_PATH
 fi
 
-/usr/bin/env ruby install.rb
-
 popd
